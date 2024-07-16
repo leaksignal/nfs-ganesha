@@ -225,7 +225,7 @@ echo "=================================="
 echo "export path: ${EXPORT_PATH}"
 echo "=================================="
 
-bootstrap_config
+# bootstrap_config
 bootstrap_idmap
 init_rpc
 init_dbus
