@@ -4,7 +4,7 @@
 ARG IMAGE_FROM="debian:12-slim"
 FROM ${IMAGE_FROM}
 
-MAINTAINER <tljm@wp.pl>
+MAINTAINER <max@leaksignal.com>
 
 ENV APP_NAME        "nfs-ganesha"
 ENV APP_DESCRIPTION "NFS-Ganesha Userspace NFS File Server"
